@@ -1,7 +1,12 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+## My name is Dave, and Welcome to my Hexo site!
+![Smiley Vampire](/images/Vampire_Smiley1.png)
+
+- [Hexo](https://hexo.io/) is a static website generator I will be using to create WhamGeek.com.
+- For more info on using Hexo, check out their [documentation](https://hexo.io/docs/).
+  - If you have any problems when using Hexo, you may find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can search on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
 
